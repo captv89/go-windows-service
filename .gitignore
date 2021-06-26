@@ -1,0 +1,4 @@
+.env
+video/
+*.db
+config.yaml
